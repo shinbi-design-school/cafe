@@ -1,0 +1,22 @@
+#top_menu a{
+    color: black;
+    text-decoration: none;
+}
+
+#top_menu a:hover {
+    color: green;
+}
+
+#categories a {
+    color: black;
+}
+
+#categories a:hover {
+    color: darkgreen;
+}
+
+footer {
+    background-color: lightgreen;
+    color: darkgreen;
+}
+

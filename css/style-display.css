@@ -1,0 +1,13 @@
+#top_menu {
+    display: flex;
+    justify-content: flex-end;
+}
+
+main {
+    display: flex;
+}
+
+article img {
+    display: block;
+}
+

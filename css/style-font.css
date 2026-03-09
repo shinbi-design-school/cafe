@@ -1,0 +1,25 @@
+#top_menu li {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+#top_menu a{
+    text-decoration: none;
+}
+
+header h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: serif;
+}
+
+#categories a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
+
+
